@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">סורק מסמכים חכם</string>
+    <string name="scan_button">סרוק מסמך חדש</string>
+    <string name="empty_state">אין מסמכים עדיין</string>
+</resources>
